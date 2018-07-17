@@ -1,5 +1,4 @@
-=======================================
-Pacific Art Assets remastered by Duion.
+Pacific Art Assets remastered by Duion
 =======================================
 
 These are the art assets from the Garagegames Pacific Demo that has been
