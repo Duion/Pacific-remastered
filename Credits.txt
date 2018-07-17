@@ -1,0 +1,6 @@
+List of models that are made by Duion from scratch and therefore can be used under CC0 license, if the MIT licensed textures are removed:
+
+art/shapes/huts/hut_beach_01/*
+art/shapes/huts/hut_beach_02/*
+
+art/modules/pier_01/*
